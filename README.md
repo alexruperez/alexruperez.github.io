@@ -1,7 +1,7 @@
 ## 👨🏼‍💻 Who I am?
 
 > I'm Alex Rupérez,
-> I have been [developing iOS applications](https://linkedin.com/in/alexruperez) and contributing to the open source community for over 10 years.
+> I have been [developing iOS applications](https://linkedin.com/in/alexruperez) and contributing to the open source community for over 12 years.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexruperez&count_private=true&show_icons=true&theme=dark)
 
@@ -20,8 +20,4 @@
   <a href="https://www.instagram.com/alexruperez"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="https://tiktok.com/@alexruperez"><img src="https://img.icons8.com/color/96/000000/tiktok.png" alt="tiktok"/></a>
   <a href="https://www.twitch.tv/alexruperez"><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
-</p>
-
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=alexruperez.alexruperez" alt="visitor badge"/>
 </p>
