@@ -1,7 +1,7 @@
 ## 👨🏼‍💻 Who I am?
 
 > I'm Alex Rupérez,
-> I have been [developing iOS applications](https://linkedin.com/in/alexruperez) and contributing to the open source community for over 12 years.
+> I have been [developing iOS applications](https://linkedin.com/in/alexruperez) and contributing to the open source community since 2010.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexruperez&count_private=true&show_icons=true&theme=dark)
 
